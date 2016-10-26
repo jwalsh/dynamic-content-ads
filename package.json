@@ -1,0 +1,26 @@
+{
+  "name": "@jwalsh/dynamic-content-ads",
+  "version": "0.0.0",
+  "description": "DCO standard review",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwalsh/dynamic-content-ads.git"
+  },
+  "author": "Jason Walsh <j@wal.sh>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwalsh/dynamic-content-ads/issues"
+  },
+  "homepage": "https://github.com/jwalsh/dynamic-content-ads#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-latest": "^6.16.0"
+  }
+}
